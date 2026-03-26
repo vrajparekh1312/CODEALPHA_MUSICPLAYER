@@ -175,9 +175,6 @@ git clone https://github.com/vrajparekh1312/melo-music-player.git
 cd CODEALPHA_MUSICPLAYER
 3️⃣ Run the Music Player
 
-🌐Live Demo Link
-https://vrajparekh1312.github.io/CODEALPHA_MUSICPLAYER/
-
 Open the main file in your browser:
 
 index.html
@@ -201,14 +198,10 @@ Safari
 
 # 📸 Screenshots
 
-You can add screenshots like:
+screenshots like:
 
-```
-/screenshots/player-ui.png
-/screenshots/playlist-view.png
-```
+<img width="1918" height="1011" alt="image" src="https://github.com/user-attachments/assets/0e213572-7db1-4d22-92eb-57de35591cb0" />
 
----
 
 # 🔮 Future Improvements
 
