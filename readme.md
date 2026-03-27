@@ -149,22 +149,17 @@ No external frameworks were used.
 
 The project follows a clean and organized structure:
 
-CODEALPHA_MUSICPLAYER
+CODEALPHA_MUSICPLAYER/
 │
-├── index.html        # Main application file (UI + Player Logic)
-├── Songs.js          # Song data (title, artist, duration, audio path)
+├── images/          # Album art (.jpg)
+├── music/           # Audio files (.mp3)
 │
-├── music/            # Audio files
-│   ├── 1. Bairan.mp3
-│   ├── 2. Sheesha.mp3
-│   ├── ...
-│
-├── images/           # Album cover images
-│   ├── Bairan.jpg
-│   ├── Sheesha.jpg
-│   ├── ...
-│
-└── README.md         # Project documentation
+├── index.html       # Main HTML structure
+├── style.css        # All styles & animations
+├── script.js        # Player logic & interactivity
+├── songs.js         # Song data array
+└── readme.md        # This file
+
 ⚙ Installation & Setup
 
 Follow these steps to run the project locally.
@@ -195,6 +190,10 @@ Google Chrome
 Microsoft Edge
 Mozilla Firefox
 Safari
+
+🌐 Live Website:
+
+https://vrajparekh1312.github.io/CodeAlpha_MusicPlayer/
 
 # 📸 Screenshots
 
