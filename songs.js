@@ -6,7 +6,7 @@ let songs = [
 
 { title:"Gehra Hua (From Dhurandhar)", artist:"Shashwat Sachdev; Arijit Singh", year:"2025", duration:"3:50", src:"music/3. Gehra Hua (From _Dhurandhar_).mp3", cover:"images/Gehra Hua (From _Dhurandhar_).jpg" },
 
-{ title:"Dhurandhar The Revenge - Aari Aari", artist:"Shashwat Sachdev; Jasmine Sandlas; Khan Saab", year:"2026", duration:"3:29", src:"music/4. Dhurandhar The Revenge - Aari Aari (From _Dhurandhar The Revenge_).mp3", cover:"images/Dhurandhar The Revenge - Aari Aari (From _Dhurandhar The Revenge_).jpg" },
+{ title:"Aari_Aari", artist:"Shashwat Sachdev; Jasmine Sandlas; Khan Saab", year:"2026", duration:"3:29", src:"music/4. Aari_Aari.mp3", cover:"images/Aari_Aari.jpg" },
 
 { title:"Khat", artist:"Navjot Ahuja", year:"2025", duration:"4:56", src:"music/5. Khat.mp3", cover:"images/Khat.jpg" },
 
