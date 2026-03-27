@@ -1,9 +1,3 @@
-Here is a **professional `README.md` file** you can use for your **MELO Music Player project** on GitHub. It explains the project, features, technologies, installation, and usage clearly based on your `index.html` implementation. 
-
-You can **copy and paste this into `README.md`** in your project.
-
----
-
 # 🎧 MELO – Modern Web Music Player
 
 MELO is a **modern, responsive web-based music player** built using **HTML, CSS, and JavaScript**.
@@ -204,14 +198,10 @@ Safari
 
 # 📸 Screenshots
 
-You can add screenshots like:
+screenshots like:
 
-```
-/screenshots/player-ui.png
-/screenshots/playlist-view.png
-```
+<img width="1918" height="1011" alt="image" src="https://github.com/user-attachments/assets/0e213572-7db1-4d22-92eb-57de35591cb0" />
 
----
 
 # 🔮 Future Improvements
 
